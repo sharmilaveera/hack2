@@ -1,2 +1,2 @@
-# hack2
+# hackathon2
 Created with CodeSandbox
